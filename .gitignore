@@ -1,1 +1,2 @@
 secret_souce.txt
+data/*.dat --- ignore all the files with this extention 
